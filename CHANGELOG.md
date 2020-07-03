@@ -6,6 +6,7 @@ All notable, unreleased changes to this project will be documented in this file.
 
 - Add sku column to fulfillment cards - #538 by @dominik-zeglen
 - Migrate product base price to variant prices - #555 by @orzechdev
+- Add Cypress e2e runner - #584 by @krzysztofwolski
 
 ## 2.10.0
 
