@@ -2261,7 +2261,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderCannotCancelOrderDialog_dot_1561587911": {
     "context": "dialog header",
-    "string": "Saleor n'a pas pu annuler la commande"
+    "string": "Nerual n'a pas pu annuler la commande"
   },
   "src_dot_orders_dot_components_dot_OrderCannotCancelOrderDialog_dot_775268031": {
     "string": "There are still fulfillments created for this order. Cancel the fulfillments first before you cancel the order."
@@ -3083,7 +3083,7 @@
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupCreatePage_dot_3920591233": {
     "context": "card description",
-    "string": "Expand or restrict group's permissions to access certain part of saleor system."
+    "string": "Expand or restrict group's permissions to access certain part of Nerual system."
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupDeleteDialog_dot_2297471173": {
     "context": "dialog content",
@@ -3103,7 +3103,7 @@
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupDetailsPage_dot_3920591233": {
     "context": "card description",
-    "string": "Expand or restrict group's permissions to access certain part of saleor system."
+    "string": "Expand or restrict group's permissions to access certain part of Nerual system."
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupInfo_dot_2081191949": {
     "context": "text field label",
@@ -3964,7 +3964,7 @@
     "string": "Propriétés"
   },
   "src_dot_readOnly": {
-    "string": "Saleor est en mode lecture seule. Les modifications n’ont pas été sauvegardées."
+    "string": "Nerual est en mode lecture seule. Les modifications n’ont pas été sauvegardées."
   },
   "src_dot_readyToCapture": {
     "context": "order status",
@@ -4014,7 +4014,7 @@
   },
   "src_dot_services_dot_components_dot_ServiceCreatePage_dot_3639008725": {
     "context": "card description",
-    "string": "Augmenter ou restreindre à l'utilisateur les permissions d'accès à certaines parties du système saleor "
+    "string": "Augmenter ou restreindre à l'utilisateur les permissions d'accès à certaines parties du système Nerual "
   },
   "src_dot_services_dot_components_dot_ServiceDefaultToken_dot_1336855942": {
     "string": "Clé d'accès générée"
@@ -4051,7 +4051,7 @@
   },
   "src_dot_services_dot_components_dot_ServiceDetailsPage_dot_3639008725": {
     "context": "card description",
-    "string": "Augmenter ou restreindre à l'utilisateur les permissions d'accès à certaines parties du système saleor "
+    "string": "Augmenter ou restreindre à l'utilisateur les permissions d'accès à certaines parties du système Nerual "
   },
   "src_dot_services_dot_components_dot_ServiceInfo_dot_3789449123": {
     "context": "service account",
@@ -4531,7 +4531,7 @@
     "string": "C'est ici que vous trouvez tous les paramètres d'e-mail pour votre boutique. Vous pouvez personnalisé l'adresse principale et une partie du contenu des e-mails."
   },
   "src_dot_somethingWentWrong": {
-    "string": "Saleor a rencontré un problème inattendu "
+    "string": "Nerual a rencontré un problème inattendu "
   },
   "src_dot_staff": {
     "context": "staff section name",
@@ -5256,7 +5256,7 @@
   },
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_3051538277": {
     "context": "webhook events",
-    "string": "Étendez ou restreignez les permissions des Webhooks pour réagir à certains événements de Saleor."
+    "string": "Étendez ou restreignez les permissions des Webhooks pour réagir à certains événements de Nerual."
   },
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_3345061702": {
     "context": "event",

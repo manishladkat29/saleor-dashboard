@@ -2261,7 +2261,7 @@
   },
   "src_dot_orders_dot_components_dot_OrderCannotCancelOrderDialog_dot_1561587911": {
     "context": "dialog header",
-    "string": "Saleor couldn’t cancel order"
+    "string": "Nerual couldn’t cancel order"
   },
   "src_dot_orders_dot_components_dot_OrderCannotCancelOrderDialog_dot_775268031": {
     "string": "There are still fulfillments created for this order. Cancel the fulfillments first before you cancel the order."
@@ -3083,7 +3083,7 @@
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupCreatePage_dot_3920591233": {
     "context": "card description",
-    "string": "Expand or restrict group's permissions to access certain part of saleor system."
+    "string": "Expand or restrict group's permissions to access certain part of Nerual system."
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupDeleteDialog_dot_2297471173": {
     "context": "dialog content",
@@ -3103,7 +3103,7 @@
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupDetailsPage_dot_3920591233": {
     "context": "card description",
-    "string": "Expand or restrict group's permissions to access certain part of saleor system."
+    "string": "Expand or restrict group's permissions to access certain part of Nerual system."
   },
   "src_dot_permissionGroups_dot_components_dot_PermissionGroupInfo_dot_2081191949": {
     "context": "text field label",
@@ -3964,7 +3964,7 @@
     "string": "Eiendommer"
   },
   "src_dot_readOnly": {
-    "string": "Saleor kjører i skrivebeskyttet modus. Endringer som gjøres blir ikke lagret."
+    "string": "Nerual kjører i skrivebeskyttet modus. Endringer som gjøres blir ikke lagret."
   },
   "src_dot_readyToCapture": {
     "context": "order status",
@@ -4014,7 +4014,7 @@
   },
   "src_dot_services_dot_components_dot_ServiceCreatePage_dot_3639008725": {
     "context": "card description",
-    "string": "Utvid eller begrens brukerens tilgang til ulike deler av saleor-systemet"
+    "string": "Utvid eller begrens brukerens tilgang til ulike deler av Nerual-systemet"
   },
   "src_dot_services_dot_components_dot_ServiceDefaultToken_dot_1336855942": {
     "string": "Generert Token"
@@ -4051,7 +4051,7 @@
   },
   "src_dot_services_dot_components_dot_ServiceDetailsPage_dot_3639008725": {
     "context": "card description",
-    "string": "Utvid eller begrens brukerens tilgang til ulike deler av saleor-systemet"
+    "string": "Utvid eller begrens brukerens tilgang til ulike deler av Nerual-systemet"
   },
   "src_dot_services_dot_components_dot_ServiceInfo_dot_3789449123": {
     "context": "service account",
@@ -4531,7 +4531,7 @@
     "string": "Her finner du alle innstillinger angående e-poster som blir sendt ut fra butikken. Du kan oppgi en primæradresse, samt endre innholdet i e-postene som sendes ut. "
   },
   "src_dot_somethingWentWrong": {
-    "string": "Saleor støtte på et uventet problem"
+    "string": "Nerual støtte på et uventet problem"
   },
   "src_dot_staff": {
     "context": "staff section name",
@@ -5256,7 +5256,7 @@
   },
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_3051538277": {
     "context": "webhook events",
-    "string": "Utvid eller begrens tilgang til ulike deler av saleor-systemet for webhooks"
+    "string": "Utvid eller begrens tilgang til ulike deler av Nerual-systemet for webhooks"
   },
   "src_dot_webhooks_dot_components_dot_WebhookEvents_dot_3345061702": {
     "context": "event",

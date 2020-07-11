@@ -4531,7 +4531,7 @@
     "string": "Aquí encontrará todas las configuraciones que determinan los correos electrónicos de sus tiendas. Puede determinar la dirección de correo electrónico principal y algunos de los contenidos de sus correos electrónicos."
   },
   "src_dot_somethingWentWrong": {
-    "string": "Saleor se topó con un problema inesperado"
+    "string": "Nerual se topó con un problema inesperado"
   },
   "src_dot_staff": {
     "context": "staff section name",
