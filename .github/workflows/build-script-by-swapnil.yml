@@ -6,9 +6,9 @@ name: CI
 # events but only for the master branch
 on:
   push:
-    branches: [dev-neu]
+    branches: [dash-neu]
   pull_request:
-    branches: [dev-neu]
+    branches: [dash-neu]
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -22,7 +22,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         with:
-          ref: dev-neu
+          ref: dash-neu
 
       - name: Use Node.js 12.x
         uses: actions/setup-node@v2.1.1
@@ -39,17 +39,13 @@ jobs:
         run: npm run build
         env:
           API_URI: https://royal-spices-kszvl2ukvq-uc.a.run.app/graphql/
-          FACEBOOK_URI: https://www.facebook.com
-          INSTAGRAM_URI: https://www.instagram.com
-          TWITTER_URI: https://www.twitter.com
-          YOUTUBE_URI: https://www.youtube.com
 
       # Share artifact inside workflow
       - name: Share artifact inside workflow
         uses: actions/upload-artifact@v1
         with:
           name: react-github-actions-build
-          path: dist
+          path: build/dashboard
 #     - name: Setup gcloud environment
 #       uses: GoogleCloudPlatform/github-actions@0.1.2
 #       with:
